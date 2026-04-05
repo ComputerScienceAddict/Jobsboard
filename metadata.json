@@ -1,0 +1,5 @@
+{
+  "name": "CleanFlow Dispatch",
+  "description": "Real-time service management for cleaning professionals. Track cleaners and assign residential or commercial jobs across the city.",
+  "requestFramePermissions": ["geolocation"]
+}
